@@ -17,7 +17,7 @@ This project is the first challenge of my coding bootcamp. The objective of this
 
 * Comments were added to the CSS to provide reference to what was being styled in the HTML.
 
-* The number of lines CSS code was reduced by consolidating repeated blocks of code into more general selectors.
+* The number of lines of CSS code was reduced by consolidating repeated blocks of code into more general selectors.
 
 * More contrast was given to the 'seo' in the Horiseon h1 header to accomodate color blindness. 
 
